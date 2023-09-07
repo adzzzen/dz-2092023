@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\dz1\1 б)\obj\Debug\1 б).csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\dz1\1 б)\obj\Debug\1 б).csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\dz1\1 б)\bin\Debug\1 б).exe.config
+C:\Users\asus\source\repos\dz1\1 б)\bin\Debug\1 б).exe
+C:\Users\asus\source\repos\dz1\1 б)\bin\Debug\1 б).pdb
+C:\Users\asus\source\repos\dz1\1 б)\obj\Debug\1 б).exe
+C:\Users\asus\source\repos\dz1\1 б)\obj\Debug\1 б).pdb

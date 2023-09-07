@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\dz1\dz1\bin\Debug\dz1.exe.config
+C:\Users\asus\source\repos\dz1\dz1\bin\Debug\dz1.exe
+C:\Users\asus\source\repos\dz1\dz1\bin\Debug\dz1.pdb
+C:\Users\asus\source\repos\dz1\dz1\obj\Debug\1 а).csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\dz1\dz1\obj\Debug\1 а).csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\dz1\dz1\obj\Debug\dz1.exe
+C:\Users\asus\source\repos\dz1\dz1\obj\Debug\dz1.pdb
